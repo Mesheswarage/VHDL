@@ -10,7 +10,7 @@ This VHDL program implements a 3-to-8 decoder, a fundamental digital logic circu
   - `S2`, `S1`, `S0`: The 3-bit binary input lines.
   - `E`: The enable bit. When `E` is high (1), the decoder is active; when low (0), it is in a standby state.
 
-- **Outputs:** It generates 8 output lines (`Y0` to `Y7`).
+- **Outputs:** It generates 8 output lines (`D0` to `D7`).
 
 - **Operation:** Based on the binary input value and the state of the enable bit (`E`), the decoder will either produce an active (high) output line or remain in a standby state.
 
