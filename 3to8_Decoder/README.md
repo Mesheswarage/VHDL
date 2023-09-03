@@ -19,8 +19,8 @@ This VHDL program implements a 3-to-8 decoder, a fundamental digital logic circu
 
  ## Files
 
-- `3to8_Decoder\Exercise01.srcs\sources_1\new\three2eight_decoder.vhdl`: The VHDL source code for the 3-to-8 decoder module with an enable bit.
-- `3to8_Decoder\Exercise01.srcs\sim_1\new\three2eight_decoder_tb.vhdl`: A testbench for simulating the 3-to-8 decoder and verifying its functionality, including the behavior with the enable bit.
+- `Exercise01.srcs\sources_1\new\three2eight_decoder.vhdl`: The VHDL source code for the 3-to-8 decoder module with an enable bit.
+- `Exercise01.srcs\sim_1\new\three2eight_decoder_tb.vhdl`: A testbench for simulating the 3-to-8 decoder and verifying its functionality, including the behavior with the enable bit.
 
 ### Simulation window
 
