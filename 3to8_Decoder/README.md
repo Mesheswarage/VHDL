@@ -4,6 +4,7 @@ This VHDL program implements a 3-to-8 decoder, a fundamental digital logic circu
 
 ![OIP](https://github.com/Mesheswarage/VHDL/assets/97176530/259f9270-ee96-458d-ad33-3347be13aef6)
 
+
 ## Functionality
 
 - **Inputs:**
