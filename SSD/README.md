@@ -23,4 +23,7 @@ A typical SSD consists of seven individual LED segments arranged in a specific p
   - `SSD.srcs\sim_1\new\SSD_tb.vhd`: Testbench for the SSD controller.
 
 
-## 
+## Simulation window
+
+
+![Screenshot (577)](https://github.com/Mesheswarage/VHDL/assets/97176530/2c97c9c9-6aec-42c3-9223-09f45aff1157)
