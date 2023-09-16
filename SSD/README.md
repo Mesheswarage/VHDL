@@ -26,4 +26,5 @@ A typical SSD consists of seven individual LED segments arranged in a specific p
 ## Simulation window
 
 
-![Screenshot (577)](https://github.com/Mesheswarage/VHDL/assets/97176530/2c97c9c9-6aec-42c3-9223-09f45aff1157)
+![Screenshot (577)](https://github.com/Mesheswarage/VHDL/assets/97176530/25e960c0-1c3f-4f4c-8ebe-b34e00d545fc)
+
