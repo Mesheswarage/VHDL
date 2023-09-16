@@ -25,4 +25,5 @@ This VHDL program implements a 3-to-8 decoder, a fundamental digital logic circu
 
 ### Simulation window
 
-![Screenshot (547)](https://github.com/Mesheswarage/VHDL/assets/97176530/9ab5171d-9d80-4819-891a-b58eeb2b6bf6)
+
+![Screenshot (547)](https://github.com/Mesheswarage/VHDL/assets/97176530/0becd6fb-1391-4018-86ad-7e230f6ceee6)
